@@ -23,6 +23,8 @@
 
 - Bottles (Port con Wine) https://flathub.org/apps/com.usebottles.bottles
 
+- Prism Launcher (Minecraft) https://prismlauncher.org/download/linux/
+
 (EMULADORES)
 
 - Melón DS (Emulador de Nintendo DS) https://github.com/melonDS-emu/melonDS
@@ -46,10 +48,39 @@
 - Spicetify (Mod de Spotify 🏴‍☠️ con mayor personalización) https://github.com/spicetify / https://spicetify.app/docs/getting-started/
 
 
+
 [Ofimática 📕]
 
 - Libre Office (Suite Office de Codigo Abierto) https://github.com/libreoffice / https://es.libreoffice.org/
 
+[Ilustración y Diseño 🎨]
+
+- PhotoCraft (Alternativa a Photoshop) https://github.com/storytold/photocraft
+ 
+- VectorCraft (Alrternativa a Illustrator) https://github.com/storytold/vectorcraft
+ 
+- Krita https://krita.org/es/
+
+- Gimp https://www.gimp.org/downloads/
+
+- Inkscape https://inkscape.app/es/descargar/
+
+
+[Edición de Video 🎬]
+
+- FilmCraft (Alternativa a Premiere Pro) https://github.com/storytold/filmcraft
+
+- EffectCraft (Alternativa a After Effects) https://github.com/storytold/effectcraft
+
+- ConCat (Alternativa de CapCut) https://github.com/jub0t/Concat
+
+- Drift (Alternativa de CapCut) https://github.com/CutWire-Studios/Drift
+
+- Kdenlive https://kdenlive.org/es/download/
+
+- OpenShot https://www.openshot.org/es/download/
+
+- DaVinci Resolve https://www.blackmagicdesign.com/es/products/davinciresolve
 
 [Descarga ⬇]
 

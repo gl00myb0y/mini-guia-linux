@@ -23,7 +23,8 @@
 
 - Bottles (Port con Wine) https://flathub.org/apps/com.usebottles.bottles
 
-- Prism Launcher (Minecraft) https://prismlauncher.org/download/linux/
+- Prism Launcher (Minecraft Premium) https://prismlauncher.org/download/linux/
+- ElyPrismLauncher (Minecraft No Premium) https://github.com/ElyPrismLauncher/Launcher
 
 (EMULADORES)
 

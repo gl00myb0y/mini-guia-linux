@@ -32,11 +32,21 @@
 
 - Visual Boy Advance (Emulador de Gameboy Advance) https://github.com/vbaemulator/Visual-Boy-Advance
 
-- PCSX2 (Emulador de Play Station 2 "PS2") https://github.com/PCSX2/pcsx2
-
 - Dolphin (Emulador de Gamecube y WII) https://github.com/dolphin-emu/dolphin
 
 - Flycast (Emulador de Sega Dreamcast) https://github.com/flyinghead/flycast
+
+- Xemu (Emulador de XBOX) https://github.com/xemu-project/xemu / https://xemu.app/docs/download/
+
+- DuckStation (Emulador de PS1 / PSX) https://github.com/stenzek/duckstation / https://duckstation.org/
+
+- PCSX2 (Emulador de Play Station 2 "PS2") https://github.com/PCSX2/pcsx2
+    
+- RPCS3 (Emulador de PS3) https://github.com/RPCS3/rpcs3 / https://rpcs3.net/download
+
+- shadPS4 (Emulador de PS4) https://github.com/shadps4-emu/shadPS4 / https://shadps4.net/downloads/
+
+
 
 
 

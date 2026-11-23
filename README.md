@@ -30,6 +30,8 @@
 
 - Melón DS (Emulador de Nintendo DS) https://github.com/melonDS-emu/melonDS
 
+- Azahar (Emulador de Nintendo 3DS) https://github.com/azahar-emu/azahar / https://azahar-emu.org/pages/download/
+
 - Visual Boy Advance (Emulador de Gameboy Advance) https://github.com/vbaemulator/Visual-Boy-Advance
 
 - Dolphin (Emulador de Gamecube y WII) https://github.com/dolphin-emu/dolphin
@@ -54,7 +56,7 @@
 
 - VLC (Reproductor Multimedia) https://github.com/videolan/vlc / https://www.videolan.org/vlc/
 
-- OBS (Grabar Pantallao Stremear)https://github.com/obsproject/obs-studio / https://obsproject.com/
+- OBS (Grabar Pantalla o Stremear)https://github.com/obsproject/obs-studio / https://obsproject.com/
 
 - Spicetify (Mod de Spotify 🏴‍☠️ con mayor personalización) https://github.com/spicetify / https://spicetify.app/docs/getting-started/
 
@@ -63,6 +65,13 @@
 [Ofimática 📕]
 
 - Libre Office (Suite Office de Codigo Abierto) https://github.com/libreoffice / https://es.libreoffice.org/
+
+
+[Mail 📧]
+
+- MailCraft (Alternativa a Microsoft Office) https://github.com/UCS-Care-Group/mailcraft
+
+- Thunderbird https://github.com/thunderbird/thunderbird-desktop / https://www.thunderbird.net/es-ES/thunderbird/all/ 
 
 [Ilustración y Diseño 🎨]
 
@@ -92,6 +101,13 @@
 - OpenShot https://www.openshot.org/es/download/
 
 - DaVinci Resolve https://www.blackmagicdesign.com/es/products/davinciresolve
+
+[Producción Musical 🎹]
+
+- LemonStudio (Alternativa a FL Studio) https://github.com/ItsAlphaNeon/Lemon-Studio
+
+- Mixxx (Software Abierto de DJ Mixin https://github.com/mixxxdj/mixxx / https://mixxx.org/download/
+
 
 [Descarga ⬇]
 

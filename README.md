@@ -19,12 +19,18 @@
 
 - Heroic Game Launcher (Epic Games) https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
 
-- Game Mode (Visualiza FPS) https://github.com/FeralInteractive/gamemode
+- Prism Launcher (Minecraft Premium) https://prismlauncher.org/download/linux/
+- ElyPrismLauncher (Minecraft No Premium) https://github.com/ElyPrismLauncher/Launcher
+
+- Game Mode (Optimiza el rendimiento del sistema al jugar) https://github.com/FeralInteractive/gamemode
+
+- MangoHud (Visualiza FPS y rendimiento en pantalla) https://github.com/flightlessmango/Mangohud
 
 - Bottles (Port con Wine) https://flathub.org/apps/com.usebottles.bottles
 
-- Prism Launcher (Minecraft Premium) https://prismlauncher.org/download/linux/
-- ElyPrismLauncher (Minecraft No Premium) https://github.com/ElyPrismLauncher/Launcher
+
+
+
 
 (EMULADORES)
 
@@ -66,12 +72,15 @@
 
 - Libre Office (Suite Office de Codigo Abierto) https://github.com/libreoffice / https://es.libreoffice.org/
 
+- PdfCraft (Alternativa a Adobe Acrobat) https://github.com/storytold/pdfcraft / https://getartcraft.com/apps/pdfcraft
+  
 
 [Mail 📧]
 
-- MailCraft (Alternativa a Microsoft Office) https://github.com/UCS-Care-Group/mailcraft
+- MailCraft (Alternativa a Microsoft Outlook) https://github.com/UCS-Care-Group/mailcraft
 
-- Thunderbird https://github.com/thunderbird/thunderbird-desktop / https://www.thunderbird.net/es-ES/thunderbird/all/ 
+- Thunderbird https://github.com/thunderbird/thunderbird-desktop / https://www.thunderbird.net/es-ES/thunderbird/all/
+  
 
 [Ilustración y Diseño 🎨]
 
@@ -105,6 +114,8 @@
 [Producción Musical 🎹]
 
 - LemonStudio (Alternativa a FL Studio) https://github.com/ItsAlphaNeon/Lemon-Studio
+
+- LMMS (Daw de Producción Musical) https://github.com/lmms/lmms / https://lmms.io/download#linux
 
 - Mixxx (Software Abierto de DJ Mixin https://github.com/mixxxdj/mixxx / https://mixxx.org/download/
 
